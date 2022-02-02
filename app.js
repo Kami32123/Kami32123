@@ -1,1 +1,3 @@
-console.log("app")
+function loggedIn() {
+    return true;
+}
